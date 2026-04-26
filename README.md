@@ -112,16 +112,6 @@ jupyter notebook recommendation_notebook.ipynb
 
 ---
 
-## How to Deploy (Free Hosting)
-
-1. Push this folder to a **GitHub repository**
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub → Click **"New app"**
-4. Select your repo → Set main file to `streamlit_app.py`
-5. Click **Deploy** — you get a free public URL
-
----
-
 ## Reference
 
 He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T.S. (2017).  
